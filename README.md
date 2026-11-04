@@ -24,9 +24,5 @@ I'm open to entry-level Python, Django, and full stack developer roles. I'm a qu
 **Find me on**
 - 💼 LinkedIn: [Lakshmi M S](https://www.linkedin.com/in/lakshmi-m-s-aa97a2293/)
 
-**A bit about me ✨**
-- 💃 I'm a classical dancer
-- 🌍 I'm curious about the world and love learning new things
-- 🤖 I'm interested in AI
 
 Thanks for checking out my work! 😊
