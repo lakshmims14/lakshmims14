@@ -1,4 +1,4 @@
-### Hey there, I'm Lakshmi MS
+### 👋Hey there, I'm Lakshmi MS
 
 I'm a Python Full Stack Developer from Kerala, India, and a fresher looking for my first full-time role.
 
